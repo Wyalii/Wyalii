@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Giorgi and I'm a Frontend Web Developer, from Georgia</p>
+<p align="left">My name is Giorgi and I'm a Frontend Web Developer, from Georgia,Tbilisi</p>
 
 ###
 
