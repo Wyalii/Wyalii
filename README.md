@@ -3,7 +3,7 @@
 <p>i love programming, learning and messing around with interesting stuff in tech :grin: :grin:</p>
 <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" width="400">
 <p>currently learning golang and backend development</p> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Zy6QNupx8rx4Ib6yQC3P3ec2eX7SPUUjjg&s" width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Zy6QNupx8rx4Ib6yQC3P3ec2eX7SPUUjjg&s" width="150">
 <p></p>
 
 <picture>
