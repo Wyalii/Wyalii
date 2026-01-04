@@ -4,6 +4,9 @@
 
 <p align="left">My name is Giorgi and I'm a Software Developer, from Georgia,Tbilisi</p>
 <p>i love programming, learning and messing around with interesting stuff in tech :grin: :grin:</p>
+<p>currently learning golang and backend development</p>
+###
+<p>this snake eats my commits</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wyalii/Wyalii/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wyalii/Wyalii/output/github-snake.svg" />
