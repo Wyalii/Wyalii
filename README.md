@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">HELLOO <3</h1>
 <p align="left">My name is Giorgi and I'm a Software Developer, from Georgia,Tbilisi</p>
 <p>i love programming, learning and messing around with interesting stuff in tech :grin: :grin:</p>
 <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" width="400">
