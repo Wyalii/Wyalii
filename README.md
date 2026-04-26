@@ -1,4 +1,5 @@
-<h1 align="left">HELLOO <3</h1>
+<div align="center>
+  <h1 align="left">HELLOO <3</h1>
 <p align="left">My name is Giorgi and I'm a Software Developer, from Georgia,Tbilisi</p>
 <p>i love programming, learning and messing around with interesting stuff in tech :grin: :grin:</p>
 <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" width="400">
@@ -15,3 +16,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wyalii/Wyalii/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Wyalii/Wyalii/output/github-snake.svg" />
 </picture>
+</div>
