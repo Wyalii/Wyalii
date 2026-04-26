@@ -2,8 +2,9 @@
 <p align="left">My name is Giorgi and I'm a Software Developer, from Georgia,Tbilisi</p>
 <p>i love programming, learning and messing around with interesting stuff in tech :grin: :grin:</p>
 <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" width="400">
-<p>currently learning golang and backend development</p> 
+<p>currently learning golang and  C :)) </p> 
 <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*Gbi_XNOkPFbWkIkJC7LnBQ.gif" width="150">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ0bnpidmVzeWI5MXNtMmZwYmlrZTd3bDIydzRkYm9xcXFibmd1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="150">
 <p></p>
 
 <picture>
