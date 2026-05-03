@@ -5,8 +5,8 @@
 <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" width="400">
 <p>currently learning golang and  C :)) </p> 
 <p align="center" width="200">
-  <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*Gbi_XNOkPFbWkIkJC7LnBQ.gif" width="150">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ0bnpidmVzeWI5MXNtMmZwYmlrZTd3bDIydzRkYm9xcXFibmd1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200">
+  <img src="https://github.com/Wyalii/myAssets/blob/main/goCoding.gif" width="150">
+  <img src="https://github.com/Wyalii/myAssets/blob/main/codingMonke.gif" width="200">
 </p>
 <p></p>
 
