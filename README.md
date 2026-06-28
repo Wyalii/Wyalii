@@ -3,7 +3,6 @@
 <p align="center">My name is Giorgi and I'm a Software Developer, from Georgia,Tbilisi</p>
 <p>i love programming, learning and messing around with interesting stuff in tech :grin: :grin:</p>
 <img src="https://github.com/Wyalii/myAssets/blob/main/anime-computer.gif" width="400">
-<p>currently focused on DSA on python </p> 
 <p align="center" width="200">
   
   <img src="https://github.com/Wyalii/myAssets/blob/main/codingMonke.gif" width="400">
